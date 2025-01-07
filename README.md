@@ -63,9 +63,6 @@ This project demonstrates the integration of **SFML 2.6.2** and **ImGui v1.87** 
 - [ImGui](https://github.com/ocornut/imgui/releases/tag/v1.87)
 - [ImGui-SFML](https://github.com/SFML/imgui-sfml/releases/tag/v2.6)
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
