@@ -5,7 +5,11 @@
             "includePath": [
                 "${default}",
                 "C:\\dev\\SFML\\include",
-                "C:\\dev\\GLFW\\include"
+                "C:\\dev\\GLFW\\include",
+                "src\\ImGui",
+                "src\\ImGui\\backends",
+                "src\\ImGui-SFML"
+
             ],
             "defines": [
                 "_DEBUG",
